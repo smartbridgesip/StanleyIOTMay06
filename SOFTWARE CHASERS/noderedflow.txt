@@ -1,0 +1,1 @@
+[{"id":"2d7a3435.d3a39c","type":"cloudant out","z":"8d8901d9.e306b","name":"","cloudant":"","database":"watermonitor","service":"patnala-cloudantNoSQLDB","payonly":false,"operation":"insert","x":183.5,"y":183,"wires":[]}]
